@@ -23,8 +23,6 @@ To use this Huffman coding implementation:
    ```bash
    python implementation.py /path/to/your/file.txt
 
-  This will compress the specified file using Huffman coding and store the compressed output.
-
 4. The compressed output will be saved in the same directory with a .compressed extension.
 
 
